@@ -13,3 +13,6 @@ let wordIndex = 0;
 // Starting Time
 let startTime = Date.now();
 // page elements
+const quotesElement = document.getElementById("quote");
+const messageElement = document.getElementById("message");
+const typedValueElement = document.getElementById("typed-value");
