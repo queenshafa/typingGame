@@ -1,0 +1,26 @@
+body {
+  background-color: #dbdbdb;
+  font-family: "Poppins";
+}
+
+h1 {
+  font-size: 48px;
+  text-align: center;
+}
+
+.guide {
+  text-align: center;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.error {
+  background-color: lightcoral;
+  border: red;
+}
+
+div {
+  text-align: center;
+}
